@@ -1,0 +1,15 @@
+3rd october 2024
+
+last class - batch setup
+
+module 01: javascript revision
+
+-oops
+-this and new keyword
+-dynamic objects (using function and class constructor)
+-async js(callbacks, promises, async await)
+-fetch API
+-browser API(set timeout , interval)
+---------------------------------------------------------------------------------------------------------
+
+1. dynamic objects

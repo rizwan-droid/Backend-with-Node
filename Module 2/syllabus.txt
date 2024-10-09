@@ -1,0 +1,52 @@
+
+Computer Networks
+Node js intro +
+NPM
+
+9th october 2024
+last class - test
+
+Node
+NPM
+Dependencies
+filesystem
+HTTP module
+
+Node js - 
+run time environment
+js ka code chalata hai
+not a programming language, library or framework basically a run time environment of js
+js server run time environment
+
+first js - browser me chalane k liye aaya tha
+node - google chrome v8 engiene
+browser - chrome - v8 + extra code/feature - file package - run time server environment
+system - pc - server
+
+Node: 
+1. non blocking io(input/output)
+2. event driven
+3. single threaded
+
+1. non blocking io:
+- php + apache - blocking io - ek request kiya toh pehle wo kaam hoga fir aage badhega
+- hum logo ko multiple kaam karana hai like fb se photo mangali aur like comment v kardiya(non bloxking io)
+
+2. single threaded:
+- process - one time one work - multipe kaam k liye async aaya - handled by event loop
+-libuv - sync task
+node js bana - v8 engiene + libuv(c++) + extra features - package - run time environment
+
+NPM: node package manager
+android - playstore
+apple - apple store
+Node - NPM
+
+animation code - npm - import - use
+
+Node setup:
+-node js installed
+-node -v
+
+
+

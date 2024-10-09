@@ -1,0 +1,18 @@
+
+Prerequisite 
+
+Javascript 
+Expectation - 10 - 5 level js 
+
+Asycn js 
+-Callbacks 
+-Promises 
+-AsyNC await
+-Objects (****)
+-Array Methods (map filter reduce)
+-OOps (this , new)
+-Import Export 
+
+----------------------------------------------------------
+
+'https://randomuser.me/api/',

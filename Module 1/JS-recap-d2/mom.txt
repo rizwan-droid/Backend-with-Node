@@ -1,0 +1,11 @@
+4th october 2024
+
+last class - js revision
+-oops, this, new, function constructor, class constructor
+
+OOPS final
+async js(callbacks, promises, async await)
+fetch - js native function
+axios - 3rd party
+import export
+

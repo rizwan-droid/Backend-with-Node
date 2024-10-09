@@ -1,0 +1,13 @@
+Node js:
+1. file system
+-write
+-read
+-update
+-append
+-delete
+-folder
+-rename
+
+file system are of two types:
+1. promises API
+2. callbacks API

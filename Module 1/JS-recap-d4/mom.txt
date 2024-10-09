@@ -1,0 +1,13 @@
+8th october 2024
+
+last class - async intro
+
+Import Export
+common js module and es6 module Export
+promises
+async await
+test
+
+import and Export
+file data - file - package - Export
+js- cjs export and es6 export

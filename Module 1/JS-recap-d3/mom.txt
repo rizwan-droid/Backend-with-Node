@@ -1,0 +1,9 @@
+6th october 2024
+
+last class - js refresher , async intro
+
+callbacks
+promises
+async await
+fetch
+import export

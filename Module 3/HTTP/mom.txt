@@ -1,0 +1,38 @@
+http module
+
+http - server
+
+server - aws,domain
+
+laptop-server-use http module-part of node
+
+npm - package
+node - module
+
+
+status code
+1xx,2xx,3xx,4xx,5xx
+
+1xx-100 101
+2xx - 201 202 203
+
+http methods - request
+get
+post
+put
+patch
+delete
+
+client(browser,laptop) - server
+request client to server - get request
+request client to server and kuch chizein dalni hai server pe - post
+client se kuch server pe daala tha - edit - pehle jo post kiya tha wahi - patch
+client se server pe dalne k baad pura hi edit karna hai - put
+client se server pe purani chizein delete karni ho  - delete
+
+everything we will learn in "restApi"
+-restApi
+-rest full
+- pehle soap chalti thi
+
+next class -  express + postman (middleware)

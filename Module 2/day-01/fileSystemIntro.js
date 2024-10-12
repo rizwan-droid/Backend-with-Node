@@ -65,10 +65,28 @@ const filesystem = require("fs");
 // });
 
 // file content update
-filesystem.writeFile("xyz.txt", "replaced content", (err) => {
-  if (err) {
-    console.log(err);
-  } else {
-    console.log("content replaced");
-  }
-});
+// filesystem.writeFile("xyz.txt", "replaced content", (err) => {
+//   if (err) {
+//     console.log(err);
+//   } else {
+//     console.log("content replaced");
+//   }
+// });
+
+//folder delete
+// filesystem.rmdir("renameFolder", function (err) {
+//   if (err) {
+//     console.log(err);
+//   } else {
+//     console.log("folder deletedd successfully");
+//   }
+// });
+
+//folder read
+// filesystem.readdir("newFolder", { withFileTypes: true }, function (err, data) {
+//   if (err) {
+//     console.log(err);
+//   } else {
+//     console.log(data);
+//   }
+// });

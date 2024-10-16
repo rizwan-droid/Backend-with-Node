@@ -1,0 +1,22 @@
+15-oct 2024
+
+last class - middleware
+1 express-session .use karke use karte hain
+2 cookie and cookie-parser
+
+res.send - browser to server
+req.send - server to browser
+
+cookies - browwser mein data store 
+session - server k andar data store - iss data ko use karna hai toh cookie-parser(middleware) use karna pdega 
+
+16-oct 2024
+-session
+-cookie
+-flash (middleware) - suppose - one route data - send to another route data - 
+-cors
+-morgan middlewaare
+-dynamic routing
+-server side rendering
+
+

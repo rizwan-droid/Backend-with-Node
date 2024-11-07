@@ -1,0 +1,30 @@
+17-oct 2024
+
+dynamic routing
+server side rendering
+http methods
+postman intro
+postman working
+error handling
+
+code converted by browser - can be done by backend as well - using ejs module
+
+ejs - convert to html - html thoda dimaag wala hota hai like it can do calculations
+
+step1 - install ejs
+template engine - jugaad jo server k andar kabiliyat daal deta hai jo chizon ko browser ki tarah render kardeta hai
+
+step2 - folder views naam ka banana hai
+step3 -  index.ejs file banana hai
+
+template engine - ejs ko html me convert kardega
+
+step4 - ek route banaenge - render
+res.send k jagah pe - res.render(index.ejs) likhenge
+
+from control and validation:
+
+by default - http method - get hota hai
+agar kuch get hai to - url - params k andar milega
+post method - data url k andar nahi milega - uske body k andar milega
+

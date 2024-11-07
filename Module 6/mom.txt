@@ -1,0 +1,17 @@
+23-october 2024
+
+last class - node intro, modules(fs,http) express, req res, cookies, session, routes, middlewares, forms(get post), morgan, cors, flash, server side rendering (ejs, template engine)
+
+postman (setup, api testing tool, collection, workplace, variables)
+error handling in express
+project setup - file system based project
+
+postman - api testing tool
+setup - install and download postman
+
+http method
+get - data server se laana
+post - server k upar kuch change hoga - matlab wahape kuch banega
+patch - update karna but pura part replace nahi hota
+put - update karna lekin pura content replace hota hai
+delete - delete karna

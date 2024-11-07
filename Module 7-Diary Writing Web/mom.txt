@@ -1,0 +1,24 @@
+
+
+Date 24th oct , 2024
+
+
+Design Document for Diary Writting App
+
+
+Diary Writting App 
+
+daily diary writtin 
+new file - day1.txt , day2.txt
+functionality 
+- Jounral day - create , edit , resave , delete , 
+
+UI 
+create , edit , delete 
+
+
+
+password - google login 
+
+
+24-10-2024.txt 

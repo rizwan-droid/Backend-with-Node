@@ -1,0 +1,11 @@
+schema
+crud operation
+industry level projecct setup diary app
+
+schema - skeleton
+like user {
+    name:string
+    age:number
+    email: string
+    password:password
+}
